@@ -17,7 +17,7 @@ I will be following the **NeetCode roadmap**.
 ---
 
 ## ✅ Coding Standards
-# 1.0 The Solution File
+### 1.0 The Solution File
 Every solution in this repository adheres to the following format.
 
 Every .cpp file must include a header comment block detailing the complexity.
@@ -38,7 +38,7 @@ using namespace std;
 void solve() {
     // Optimized solution
 }
-# 2.0 The Documentation (NOTES.md)
+### 2.0 The Documentation (NOTES.md)
 
 For harder problems, a NOTES.md file is included in the problem folder containing:
 The Intuition: Why did I choose this approach?
