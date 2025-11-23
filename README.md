@@ -21,7 +21,7 @@ I will be following the **NeetCode roadmap**.
 Every solution in this repository adheres to the following format.
 
 Every .cpp file must include a header comment block detailing the complexity.
-
+```text
 /**
  * Problem:  [Problem Name]
  * Link:     [Url to problem]
@@ -32,12 +32,10 @@ Every .cpp file must include a header comment block detailing the complexity.
  * Approach: Two Pointers
  */
 
-#include <bits/stdc++.h>
-using namespace std;
-
 void solve() {
     // Optimized solution
 }
+```
 ### 2.0 The Documentation (NOTES.md)
 
 For harder problems, a NOTES.md file is included in the problem folder containing:
